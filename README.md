@@ -1,2 +1,2 @@
 # repo-1
-First Repository
+Hello, World. This is my first repository.
